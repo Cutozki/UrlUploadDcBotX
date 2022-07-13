@@ -17,7 +17,7 @@ Telegram RoBot to Upload Links.
 
 ### Deploy In Heroku 🌹
 
-<a href="https://heroku.com/deploy?template=https://github.com/Cutozki/UrlUploadDcBot">
+<a href="https://heroku.com/deploy?template=https://github.com/Cutozki/UrlUploadDcBotX">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
